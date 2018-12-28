@@ -1,0 +1,110 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px;
+}
+.bghead
+{
+  color: #FFFFFF;
+  position: relative;
+}
+.login
+{
+  border: 1px solid #0000ff;
+  text-align: center;
+  color: #0000ff;
+  padding: 7px;
+}
+.create_button
+{
+  border:1px solid #0000ff;
+  padding: 7px;
+  color :#0000ff;
+}
+.bgimg {
+  height: 70%;
+  width: 100%;
+  background-image: url("./images/banner-top-bg.png");
+  background-repeat: no-repeat;
+  background-position: top;
+
+}
+.footer
+{
+  width: 100%;
+  background-image: url("./images/footer-bg.png");
+  height: 55%;
+  background-repeat: no-repeat;
+  background-position: top;
+
+}
+.three_images
+{
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+ 
+}
+.boximage
+{
+  height: 50%;
+  width: 100%;
+  background-image: url("./images/join-co-blog-bg.png");
+  background-repeat: no-repeat;
+  background-position: top;  
+  text-align: center;
+
+  
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+
+.pic_column,.text_column
+{
+  display: inline-block;
+  margin :0 auto;
+  padding: 0;
+  position: relative; 
+}
+.test
+{
+  border: none;
+  padding: 0px; 
+}
+.three_texts
+{
+  color: blue;
+  text-align: center;
+  font-size: 22px;
+}
+.input-group
+{
+  padding-left:25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+}
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+html{
+  height: 100%;
+}
+body {
+  z-index: 0;
+  height: 100%;
+}
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+
